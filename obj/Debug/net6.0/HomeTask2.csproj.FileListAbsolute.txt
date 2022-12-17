@@ -1,0 +1,15 @@
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar7\HomeTask2\obj\Debug\net6.0\HomeTask2.csproj.AssemblyReference.cache
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar7\HomeTask2\obj\Debug\net6.0\HomeTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar7\HomeTask2\obj\Debug\net6.0\HomeTask2.AssemblyInfoInputs.cache
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar7\HomeTask2\obj\Debug\net6.0\HomeTask2.AssemblyInfo.cs
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar7\HomeTask2\obj\Debug\net6.0\HomeTask2.csproj.CoreCompileInputs.cache
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar7\HomeTask2\bin\Debug\net6.0\HomeTask2.exe
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar7\HomeTask2\bin\Debug\net6.0\HomeTask2.deps.json
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar7\HomeTask2\bin\Debug\net6.0\HomeTask2.runtimeconfig.json
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar7\HomeTask2\bin\Debug\net6.0\HomeTask2.dll
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar7\HomeTask2\bin\Debug\net6.0\HomeTask2.pdb
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar7\HomeTask2\obj\Debug\net6.0\HomeTask2.dll
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar7\HomeTask2\obj\Debug\net6.0\refint\HomeTask2.dll
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar7\HomeTask2\obj\Debug\net6.0\HomeTask2.pdb
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar7\HomeTask2\obj\Debug\net6.0\HomeTask2.genruntimeconfig.cache
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar7\HomeTask2\obj\Debug\net6.0\ref\HomeTask2.dll
